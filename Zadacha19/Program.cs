@@ -16,7 +16,7 @@ if(number.Length == 5)
     }
     else
     {
-        Console.WriteLine("Эти числа не явлются палиндромом");
+        Console.WriteLine("Эти числа не являются палиндромом");
     }
 }
 else
